@@ -67,6 +67,6 @@ Este repositório contém um projeto para gerenciar dados de motocicletas usando
    ```bash
    yarn dev:server
    
-4. **Suba um servidor local:"
+4. **Abra outro terminal e suba um servidor local:"
    ```bash
    yarn dev
