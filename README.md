@@ -58,3 +58,7 @@ Este repositório contém um projeto para gerenciar dados de motocicletas usando
    ```bash
    git clone <URL-do-repositório>
    cd teste-motocasystems
+
+2. **Inicie o servidor json server para subir o mock da api"
+   ```bash
+   yarn dev:server   
