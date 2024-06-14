@@ -1,0 +1,25 @@
+{
+  "motorcycle": [
+    {
+      "id": "0001",
+      "modelo": "HONDA POP 110I ",
+      "color": "BRANCA",
+      "value": "15000",
+      "status": "Em estoque"
+    },
+    {
+      "id": "0002",
+      "modelo": "HONDA 500x",
+      "color": "vermelha",
+      "value": "50000",
+      "status": "Sem estoque"
+    },
+    {
+      "id": "0003",
+      "modelo": "HONDA CB 300F TWISTER",
+      "color": "PRETA",
+      "value": "300000",
+      "status": "Em trânsito"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .input-no-autofill:-webkit-autofill,
+  .input-no-autofill:-webkit-autofill:hover,
+  .input-no-autofill:-webkit-autofill:focus,
+  .input-no-autofill:-webkit-autofill:active {
+    box-shadow: 0 0 0px 1000px #fff inset !important;
+    -webkit-text-fill-color: #000 !important;
+  }
+}
